@@ -16,3 +16,7 @@
 - [MSA란?](https://velog.io/@hjun0917/MicroService-ArchitectureMSA)
 - [제네릭이란?](https://velog.io/@hjun0917/%EC%A0%9C%EB%84%A4%EB%A6%ADGeneric)
 - [List, Set, Map, HashMap의 차이](https://velog.io/@hjun0917/List-Set-Map-HashMap%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+
+#### Day4
+- [Parameter와 Argument의 차이](https://velog.io/@hjun0917/Parameter-Argument)
+- [Process와 Thread의 차이](https://velog.io/@hjun0917/Thread-Process)
