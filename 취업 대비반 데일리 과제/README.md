@@ -17,3 +17,7 @@
 #### Day4
 - [Parameter와 Argument의 차이](https://velog.io/@hjun0917/Parameter-Argument)
 - [Process와 Thread의 차이](https://velog.io/@hjun0917/Thread-Process)
+
+#### Day5
+- [웹 서버와 WAS의 차이](https://velog.io/@hjun0917/Web-Server-WAS)
+- [Stack과 Queue 그리고 Array와 Linked List 자료구조 정의와 차이](https://velog.io/@hjun0917/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Stack-Queue-ArrayList-LinkedList)
