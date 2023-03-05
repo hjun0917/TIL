@@ -27,9 +27,9 @@
 - [웹 서버와 WAS의 차이](https://velog.io/@hjun0917/Web-Server-WAS)
 - [Stack과 Queue 그리고 Array와 Linked List 자료구조 정의와 차이](https://velog.io/@hjun0917/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Stack-Queue-ArrayList-LinkedList)
 
-#### Day7(작성중)
-- [절차지향 / 객체지향 / 함수형 프로그래밍이란 무엇이고 차이]()
-- [‘시간복잡도‘와 ‘공간복잡도’란? 그리고 왜 중요한가?]()
+#### Day7
+- [절차지향 / 객체지향 / 함수형 프로그래밍이란 무엇이고 차이](https://velog.io/@hjun0917/%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+- [‘시간복잡도‘와 ‘공간복잡도’란? 그리고 왜 중요한가?](https://velog.io/@hjun0917/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84%EC%99%80-%EA%B3%B5%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84)
 
 #### Day8(작성중)
 - [오버로딩과 오버라이딩의 차이]()
