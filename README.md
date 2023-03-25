@@ -10,6 +10,7 @@
 - 3/20(월), 나는 [Virtual Memory](https://velog.io/@hjun0917/Virtual-Memory)를 알아보았다.
 - 3/21(화), 나는 [AOP](https://velog.io/@hjun0917/AOP)를 알아보았다.
 - 3/23(목), [2진수와 비트](https://velog.io/@hjun0917/2%EC%A7%84%EC%88%98%EC%99%80-%EB%B9%84%ED%8A%B8)를 공부했다. 차곡차곡 쌓아가기
+- 3/25(토), [컴퓨터의 저장원리와 정보의 숫자 단위](https://velog.io/@hjun0917/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-%EC%A0%80%EC%9E%A5%EC%9B%90%EB%A6%AC-%EC%A0%95%EB%B3%B4%EC%9D%98-%EC%88%AB%EC%9E%90-%EB%8B%A8%EC%9C%84)를 공부하였다. 기초부터 탄탄히.
 
 ### 🔍 [취업 대비반 스터디](https://github.com/hjun0917/TIL/tree/main/%EC%B7%A8%EC%97%85%20%EB%8C%80%EB%B9%84%EB%B0%98%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EA%B3%BC%EC%A0%9C)
 
