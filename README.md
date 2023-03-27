@@ -12,6 +12,7 @@
 - 3/23(목), [2진수와 비트](https://velog.io/@hjun0917/2%EC%A7%84%EC%88%98%EC%99%80-%EB%B9%84%ED%8A%B8)를 공부했다. 차곡차곡 쌓아가기
 - 3/25(토), [컴퓨터의 저장원리와 정보의 숫자 단위](https://velog.io/@hjun0917/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-%EC%A0%80%EC%9E%A5%EC%9B%90%EB%A6%AC-%EC%A0%95%EB%B3%B4%EC%9D%98-%EC%88%AB%EC%9E%90-%EB%8B%A8%EC%9C%84)를 공부하였다. 기초부터 탄탄히.
 - 3/26(일), [컴퓨터 구조 입문의 일부](https://velog.io/@hjun0917/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%9E%85%EB%AC%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)를 공부하였다. 데이터 메모리와 프로그램 메모리, 기회가 된다면 더 깊게 공부해보자.
+- 3/27(월), [CPU와 클럭발생기](https://velog.io/@hjun0917/CPU-%EC%99%80-%ED%81%B4%EB%9F%AD%EB%B0%9C%EC%83%9D%EA%B8%B0)에 대해세 공부하였다. 학습량을 점차적으로 늘려가도록 하자.
 
 ### 🔍 [취업 대비반 스터디](https://github.com/hjun0917/TIL/tree/main/%EC%B7%A8%EC%97%85%20%EB%8C%80%EB%B9%84%EB%B0%98%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EA%B3%BC%EC%A0%9C)
 
