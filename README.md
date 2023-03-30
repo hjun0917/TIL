@@ -14,6 +14,7 @@
 - 3/26(일), [컴퓨터 구조 입문의 일부](https://velog.io/@hjun0917/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%9E%85%EB%AC%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)를 공부하였다. 데이터 메모리와 프로그램 메모리, 기회가 된다면 더 깊게 공부해보자.
 - 3/27(월), [CPU와 클럭발생기](https://velog.io/@hjun0917/CPU-%EC%99%80-%ED%81%B4%EB%9F%AD%EB%B0%9C%EC%83%9D%EA%B8%B0)에 대해세 공부하였다. 학습량을 점차적으로 늘려가도록 하자.
 - 3/28(화), [프로그래밍 언어의 기초](https://velog.io/@hjun0917/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4-Basic-of-Basic)를 학습하였다. 각자도생이라는 사내 스터디를 참여하였다. 뭔가 공부를 할 수 있는 좋은 동기부여가 또하나 생기게 된 것 같아 좋다!!!
+- 3/30(목), [프로그래밍 언어의 기초, part 2](https://velog.io/@hjun0917/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4-Basic-of-Basic2) 학습. 파워야근 후 짧은 공부!
 
 ### 🔍 [취업 대비반 스터디](https://github.com/hjun0917/TIL/tree/main/%EC%B7%A8%EC%97%85%20%EB%8C%80%EB%B9%84%EB%B0%98%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EA%B3%BC%EC%A0%9C)
 
