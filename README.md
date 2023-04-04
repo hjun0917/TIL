@@ -6,6 +6,7 @@
 ---
 
 ### 📖 1일 1지식
+#### 3월 
 - 3/18(토), 나는 [경쟁상태와 임계영역의 개념 그리고 동기화](https://velog.io/@hjun0917/%EA%B2%BD%EC%9F%81%EC%83%81%ED%83%9C%EC%99%80-%EC%9E%84%EA%B3%84%EC%98%81%EC%97%AD%EC%9D%98-%EA%B0%9C%EB%85%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%99%EA%B8%B0%ED%99%94)를 알아보았다.
 - 3/20(월), 나는 [Virtual Memory](https://velog.io/@hjun0917/Virtual-Memory)를 알아보았다.
 - 3/21(화), 나는 [AOP](https://velog.io/@hjun0917/AOP)를 알아보았다.
@@ -16,6 +17,8 @@
 - 3/28(화), [프로그래밍 언어의 기초](https://velog.io/@hjun0917/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4-Basic-of-Basic)를 학습하였다. 각자도생이라는 사내 스터디를 참여하였다. 뭔가 공부를 할 수 있는 좋은 동기부여가 또하나 생기게 된 것 같아 좋다!!!
 - 3/30(목), [프로그래밍 언어의 기초, part 2](https://velog.io/@hjun0917/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4-Basic-of-Basic2) 학습. 파워야근 후 짧은 공부!
 - 3/31(금), [프로그래밍 언어의 기초, part 3](https://velog.io/@hjun0917/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4-Basic-of-Basic3) 학습. 정신없었지만, 와우했던 하루를 보내고 짧은 공부!
+#### 4월
+- 4/4(화). [운영체제 - 컴퓨터는 3층집?](https://velog.io/@hjun0917/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%8A%94-3%EC%B8%B5%EC%A7%91) 학습. 4월도 꾸준함으로 무장해보자.
 
 ### 🔍 [취업 대비반 스터디](https://github.com/hjun0917/TIL/tree/main/%EC%B7%A8%EC%97%85%20%EB%8C%80%EB%B9%84%EB%B0%98%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EA%B3%BC%EC%A0%9C)
 
