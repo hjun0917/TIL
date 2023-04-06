@@ -19,6 +19,7 @@
 - 3/31(금), [프로그래밍 언어의 기초, part 3](https://velog.io/@hjun0917/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4-Basic-of-Basic3) 학습. 정신없었지만, 와우했던 하루를 보내고 짧은 공부!
 #### 4월
 - 4/4(화). [운영체제 - 컴퓨터는 3층집?](https://velog.io/@hjun0917/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%8A%94-3%EC%B8%B5%EC%A7%91) 학습. 4월도 꾸준함으로 무장해보자.
+- 4/6(목), [컴퓨터의 구조와 성능향상](https://velog.io/@hjun0917/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%B1%EB%8A%A5%ED%96%A5%EC%83%81) 학습. 11시에 퇴근했지만 짧게라도 공부하겠다는 마인드! 의지!
 
 ### 🔍 [취업 대비반 스터디](https://github.com/hjun0917/TIL/tree/main/%EC%B7%A8%EC%97%85%20%EB%8C%80%EB%B9%84%EB%B0%98%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EA%B3%BC%EC%A0%9C)
 
