@@ -19,8 +19,6 @@
 - 3/31(금), [프로그래밍 언어의 기초, part 3](https://velog.io/@hjun0917/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%96%B8%EC%96%B4-Basic-of-Basic3) 학습. 정신없었지만, 와우했던 하루를 보내고 짧은 공부!
 #### 4월
 
-- 4/18(화), [CPU 예측이 야기할 수 있는 문제점](https://velog.io/@hjun0917/CPU-%EC%98%88%EC%B8%A1%EC%9D%B4-%EC%95%BC%EA%B8%B0%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%AC%B8%EC%A0%9C%EC%A0%90)에 대해서 알아보았다. CPU 게이트... CPU를 캐싱의 취약점을 이용하여 접근할 수 없는 정보를 얻는다... 신기하다. 재밌을지도? 어려워서 이해가 잘안되는 것 같은 느낌 뺴면
-
 ### 🔍 [취업 대비반 스터디](https://github.com/hjun0917/TIL/tree/main/%EC%B7%A8%EC%97%85%20%EB%8C%80%EB%B9%84%EB%B0%98%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EA%B3%BC%EC%A0%9C)
 
 ### 🔍 [면접 스터디 준비 자료](https://github.com/hjun0917/TIL/tree/main/%EB%A9%B4%EC%A0%91%20%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%A4%80%EB%B9%84%20%EC%9E%90%EB%A3%8C)
