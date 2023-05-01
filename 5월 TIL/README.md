@@ -1,0 +1,1 @@
+- 5/1(월). [Js의 역사와 특징](https://velog.io/@hjun0917/JavaScript-%EB%AC%B8%EB%B2%95-%EC%A2%85%ED%95%A9%EB%B0%98)
